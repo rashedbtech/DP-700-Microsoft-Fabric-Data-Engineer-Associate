@@ -1,4 +1,3 @@
-# DP-700-Microsoft-Fabric-Data-Engineer-Associate
 # DP-700 — Microsoft Fabric Data Engineer Associate
 ### Sequential Study Guide · Microsoft Learn Official Materials · Updated April 2026
 > **Pass score:** 700/1000 · **3 equal domains (30–35% each)** · **Intermediate level**
